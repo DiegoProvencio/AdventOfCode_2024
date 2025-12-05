@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚠️⚠️ PRACTICE REPO — NOT A FULL AoC 2024 SET ⚠️⚠️</h1>
+  <h1>⚠️⚠️ PRACTICE REPO - NOT A FULL 2024 SET ⚠️⚠️</h1>
   <p>(Looking for the real day-by-day grind? It's all in the 2025 repo 😁)</p>
 </div>
 
